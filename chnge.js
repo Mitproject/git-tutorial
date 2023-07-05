@@ -1,3 +1,3 @@
-nsole.l.log(change.js');
-console.l.log('version2 update13');
-console.log;
+
+console.log("Test some logs");
+console.log("Test")
